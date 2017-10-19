@@ -103,9 +103,8 @@ The First paper
 
 ## Conditional adversarial
 
-:white_check_mark: [Conditional Generative Adversarial Nets] [[Paper]](https://arxiv.org/abs/1411.1784)[[Code]](https://github.com/zhangqianhui/Conditional-Gans)[[explain]](http://blog.csdn.net/wspba/article/details/54666907)
+:white_check_mark: [Conditional Generative Adversarial Nets] [[Paper]](https://arxiv.org/abs/1411.1784)[[Code]](https://github.com/zhangqianhui/Conditional-Gans)[[Explain]](http://blog.csdn.net/wspba/article/details/54666907)
 
-:white_check_mark: [Conditional Generative Adversarial Nets] [[Paper]](https://arxiv.org/abs/1411.1784)[[Code]](https://github.com/zhangqianhui/Conditional-Gans)
 
 :white_check_mark: [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets] [[Paper]](https://arxiv.org/abs/1606.03657)[[Code]](https://github.com/buriburisuri/supervised_infogan)[[Code]](https://github.com/openai/InfoGAN)
 
